@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    width: 80%;
+    height: 100vh;
+    margin: 3;
+    display: flex;
+    text-align: center;
+}
+
+h1 {
+    color: green;
+    display: flex;
+    text-align: center;
+}
